@@ -11,4 +11,4 @@ Added lines:
 {chr(10).join(hunk.added_lines)}
 """
     out = call_openai(prompt)
-    return out  # We'll parse it later or expect LLM to return JSON
+    return out  
