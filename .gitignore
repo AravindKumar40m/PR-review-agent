@@ -1,0 +1,14 @@
+
+# Node.js related
+node_modules/
+package-lock.json
+
+
+
+# dotenv environment variable files
+.env
+.env.test
+.env.production
+
+venv/
+__pycache__/
